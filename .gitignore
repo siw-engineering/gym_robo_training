@@ -1,0 +1,3 @@
+gym_robo_training/data
+gym_robo_training/*.db
+.vscode
